@@ -1,3 +1,2 @@
-# Beer_Pong_Unity
-
-# testing first commit
+# VR-AR_Project
+THI-VR-AR-Project
